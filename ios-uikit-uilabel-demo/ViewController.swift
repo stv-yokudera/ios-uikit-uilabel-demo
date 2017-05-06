@@ -76,8 +76,6 @@ class ViewController: UIViewController {
         
         // .byWordWrapping 複数行になる時、単語単位で折り返す
 //        label.lineBreakMode = .byWordWrapping
-        
-        
     }
     
     // ラベルに表示するスタイル付きテキストを設定する
