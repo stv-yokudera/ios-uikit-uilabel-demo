@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					9F57B2101E4A08BF00D082A4 = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = PCCZJUYRT6;
 						ProvisioningStyle = Automatic;
 					};
 					9F57B2241E4A08BF00D082A4 = {
@@ -410,7 +411,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PCCZJUYRT6;
 				INFOPLIST_FILE = "ios-uikit-uilabel-demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.st-ventures.ios-uikit-uilabel-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -422,7 +425,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PCCZJUYRT6;
 				INFOPLIST_FILE = "ios-uikit-uilabel-demo/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.st-ventures.ios-uikit-uilabel-demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -503,6 +508,7 @@
 				9F57B23B1E4A08BF00D082A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9F57B23C1E4A08BF00D082A4 /* Build configuration list for PBXNativeTarget "ios-uikit-uilabel-demoTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +517,7 @@
 				9F57B23E1E4A08BF00D082A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9F57B23F1E4A08BF00D082A4 /* Build configuration list for PBXNativeTarget "ios-uikit-uilabel-demoUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +526,7 @@
 				9F57B2411E4A08BF00D082A4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
